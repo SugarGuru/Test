@@ -6,8 +6,9 @@ Bananas
 
 MEAT
 Sausages
+Pork
 
 DAIRY
-
+Milk
 
 HOUSEHOLD
