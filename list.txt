@@ -7,6 +7,9 @@ Bananas
 MEAT
 Sausages
 Pork
+Lamb
+Chicken
+Rabbit
 
 DAIRY
 Milk
