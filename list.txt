@@ -10,5 +10,9 @@ Pork
 
 DAIRY
 Milk
+Eggs
+Yoghurt
+Butter
+Chesse
 
 HOUSEHOLD
